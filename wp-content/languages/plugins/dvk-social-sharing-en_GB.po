@@ -1,0 +1,153 @@
+# Translation of Plugins - Social Sharing (by Danny) - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Social Sharing (by Danny) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-22 07:20:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Social Sharing (by Danny) - Stable (latest release)\n"
+
+#: includes/views/settings-page.php:140
+msgid "If you like this plugin, consider supporting it in one the following ways."
+msgstr "If you like this plugin, consider supporting it in one the following ways."
+
+#: includes/views/settings-page.php:139
+msgid "Happy with the plugin?"
+msgstr "Happy with the plugin?"
+
+#: includes/template-functions.php:17
+msgid "on LinkedIn"
+msgstr "on LinkedIn"
+
+#: includes/views/settings-page.php:98
+msgid "Large"
+msgstr "Large"
+
+#: includes/views/settings-page.php:74
+msgid "Show these social network options."
+msgstr "Show these social network options."
+
+#: includes/views/settings-page.php:61
+msgid "Social networks"
+msgstr "Social networks"
+
+#: includes/views/settings-page.php:42
+msgid "Add to"
+msgstr "Add to"
+
+#. Author URI of the plugin/theme
+msgid "https://dannyvankooten.com/"
+msgstr "https://dannyvankooten.com/"
+
+#. Author of the plugin/theme
+msgid "ibericode"
+msgstr "ibericode"
+
+#. Description of the plugin/theme
+msgid "Adds super lightweight (no-scripts) social share buttons to your posts."
+msgstr "Adds super lightweight (no-scripts) social share buttons to your posts."
+
+#. Plugin URI of the plugin/theme
+msgid "https://dannyvankooten.com/wordpress-plugins/social-sharing-by-danny/"
+msgstr "https://dannyvankooten.com/wordpress-plugins/social-sharing-by-danny/"
+
+#. Plugin Name of the plugin/theme
+msgid "Social Sharing (by Danny)"
+msgstr "Social Sharing (by Danny)"
+
+#: includes/views/settings-page.php:168
+msgid "Please use the %splugin support forums%s on WordPress.org."
+msgstr "Please use the %splugin support forums%s on WordPress.org."
+
+#: includes/views/settings-page.php:167
+msgid "Looking for support?"
+msgstr "Looking for support?"
+
+#: includes/views/settings-page.php:143
+msgid "Leave a %s review on WordPress.org"
+msgstr "Leave a %s review on WordPress.org"
+
+#: includes/views/settings-page.php:121
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+
+#: includes/views/settings-page.php:117
+msgid "Twitter username"
+msgstr "Twitter username"
+
+#: includes/views/settings-page.php:111
+msgid "A small JavaScript file of just 600 bytes so people won't have to leave your website to share."
+msgstr "A small JavaScript file of just 600 bytes so people won't have to leave your website to share."
+
+#: includes/views/settings-page.php:105
+msgid "Load pop-up JS?"
+msgstr "Load pop-up JS?"
+
+#: includes/views/settings-page.php:97
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/views/settings-page.php:96 includes/views/settings-page.php:97
+#: includes/views/settings-page.php:98
+msgid "pixels"
+msgstr "pixels"
+
+#: includes/views/settings-page.php:96
+msgid "Small"
+msgstr "Small"
+
+#: includes/views/settings-page.php:92
+msgid "Icon size"
+msgstr "Icon size"
+
+#: includes/views/settings-page.php:86
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "Adds simple but pretty icons to the sharing links."
+
+#: includes/views/settings-page.php:84 includes/views/settings-page.php:109
+msgid "No"
+msgstr "No"
+
+#: includes/views/settings-page.php:83 includes/views/settings-page.php:108
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/views/settings-page.php:80
+msgid "Load icon CSS?"
+msgstr "Load icon CSS?"
+
+#: includes/views/settings-page.php:55
+msgid "Automatically adds the sharing links to the end of the selected post types."
+msgstr "Automatically adds the sharing links to the end of the selected post types."
+
+#: includes/views/settings-page.php:36
+msgid "The text to show before the sharing links."
+msgstr "The text to show before the sharing links."
+
+#: includes/views/settings-page.php:32
+msgid "Text before links"
+msgstr "Text before links"
+
+#: includes/views/settings-page.php:20
+msgid "by"
+msgstr "by"
+
+#: includes/template-functions.php:20
+msgid "on Google+"
+msgstr "on Google+"
+
+#: includes/template-functions.php:19
+msgid "on Facebook"
+msgstr "on Facebook"
+
+#: includes/template-functions.php:18
+msgid "on Twitter"
+msgstr "on Twitter"
+
+#: includes/class-admin.php:104 includes/views/settings-page.php:26
+msgid "Settings"
+msgstr "Settings"
